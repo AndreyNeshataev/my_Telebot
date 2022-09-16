@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.5.1
+python-dotenv==0.20.0
+beautifulsoup4~=4.11.1
+requests~=2.27.1
+loader~=2017.9.11
+loguru~=0.6.0
+peewee~=3.15.0
